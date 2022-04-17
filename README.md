@@ -1,11 +1,11 @@
 ## I'm a Javascript and Solidity Developer, plus Writer !!
 
-- 🔭 Check out my Portfolio Website: [Alphayo Ken](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 Check out my Portfolio Website: [Alphayo Ken](http://178.79.159.212:5000/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to contibute more to opensource projects.
 - 🥅 2022 Goals: Learn more about Computation and Algorithms.
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
-- 😻 Check out my Blog: [Everthing Web](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 😻 Check out my Blog: [Everthing Web](http://178.79.159.212:5000/blog)
 
 
 ### Connect with me:
@@ -13,17 +13,12 @@
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 
 
 
