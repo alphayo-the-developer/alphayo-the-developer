@@ -1,6 +1,6 @@
 ## I'm a Javascript and Solidity Developer, plus Writer !!
 
-- 🔭 Check out my Portfolio Website: [Alphayo Ken]([http://178.79.159.212:5000/](https://alphayo-the-developer.github.io/))
+- 🔭 Check out my Portfolio Website: [Alphayo Ken](https://alphayo-the-developer.github.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to contibute more to opensource projects.
 - 🥅 2022 Goals: Learn more about Computation and Algorithms.
