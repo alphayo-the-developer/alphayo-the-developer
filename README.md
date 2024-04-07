@@ -1,9 +1,9 @@
-## I'm a Javascript and Solidity Developer, plus Writer !!
+## I'm a Web and Game Developer, plus Writer !!
 
 - 🔭 Check out my Portfolio Website: [Alphayo Ken](https://alphayo-the-developer.github.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to contibute more to opensource projects.
-- 🥅 2022 Goals: Learn more about Computation and Algorithms.
+- 🥅 2022 Goals: Learn more about ARTIFICIAL INTELLIGENCE.
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 - 😻 Check out my Blog: [Everthing Web](http://178.79.159.212:5000/blog)
 
