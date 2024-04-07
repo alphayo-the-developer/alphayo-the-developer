@@ -3,8 +3,8 @@
 - 🔭 Check out my Portfolio Website: [Alphayo Ken](https://alphayo-the-developer.github.io/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to contibute more to opensource projects.
-- 🥅 2022 Goals: Learn more about ARTIFICIAL INTELLIGENCE.
-<!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
+- 🥅 2024- Goals: Learn more about ARTIFICIAL INTELLIGENCE.
+<!-- - ⚡ Fun fact: I love to draw and play video games / explore  -->
 - 😻 Check out my Blog: [Everthing Web](http://178.79.159.212:5000/blog)
 
 
